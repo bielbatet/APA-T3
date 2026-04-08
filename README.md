@@ -5,7 +5,7 @@
 > [!Important]
 > Introduzca a continuación su nombre y apellidos:
 >
-> Fulano Mengano Zutano
+> Biel Batet Tudela
 
 ## Aviso Importante
 
@@ -92,7 +92,7 @@ $v_2$, y $v_1^\perp$ es normal (perpendicular) a $v_2$.
 
 #### Ejecución de los tests unitarios
 
-(captura3.png)
+![Ejecución de los tests](captura3.png)
 #### Código desarrollado
 
 ```
